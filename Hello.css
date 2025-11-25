@@ -1,0 +1,48 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(230, 230, 227);
+}
+
+div > h1,h5 {
+    margin: 0;
+    width: 100%;
+    background-color: rgb(27, 38, 59);
+    font-family: 'Alfa Slab One';
+    text-align: center;
+    color: rgb(224, 225, 221);
+    padding: 20px 0;
+}
+div ul{
+    list-style-type: circle;
+    font-family: 'Alfa Slab One';
+    text-align: left;
+    color: rgb(224, 225, 221);
+    margin-left: -30px;
+}
+div > h3{
+    color: rgb(224, 225, 221);
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.25px;
+    font-weight: bold;
+    padding-top: 10px;
+    text-align: center;
+    
+}
+#Topbanner{
+    margin: 0;
+    width: 100%;
+    background-color: rgb(27, 38, 59);
+    font-family: 'Alfa Slab One';
+    text-align: center;
+    color: rgb(224, 225, 221);
+    padding: 20px 0;
+}
+#container{
+    background-color: rgb(13, 27, 42);
+    height: 250px;
+    width: 250px;
+    margin-left: 100px;
+    border: 16px;
+    border-radius: 15px;
+}
